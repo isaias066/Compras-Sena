@@ -3,8 +3,8 @@ package com.mycompany.carritocompras;
 public class Main {
     public static void main(String[] args) {
         // Crear productos
-        Producto p1 = new Producto("Leche", 4500, 10);
-        Producto p2 = new Producto("Pan", 2500, 20);
+        Producto p1 = new Producto("Harina", 3000, 10);
+        Producto p2 = new Producto("Pansito", 2500, 20);
         Producto p3 = new Producto("Huevos", 12000, 5);
 
         // Crear carrito
